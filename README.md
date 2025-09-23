@@ -6,7 +6,7 @@ always learning.
 ---
 
 ## 🌟 Quick Snapshot
-- 🎓 Pursuing a Bachelor's in **Computer Science** from Bowie State University gradute in 2028
+- 🎓 Pursuing a Bachelor's in **Computer Science** from Bowie State University graduate in 2028
 - 🔐 Aspiring **Cybersecurity Specialist** | ISC2 CC cerfication (in progress), 
 - 💻 Developer with a growing focus on **Java, Python, and Security tools**  
 
