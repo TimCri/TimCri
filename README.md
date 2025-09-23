@@ -42,7 +42,7 @@ Here are some projects I’ve worked on.
 
 ## 🌐 Connect with Me    
 - 💼 [LinkedIn: Timonique Crighton](https://www.linkedin.com/in/timonique-crighton-90475922a/)  
-- 🐙 GitHub: [GITHUB](https://github.com/TimCri)  
+- 🐙 GitHub: [TimCri](https://github.com/TimCri)  
 
 ---
 
