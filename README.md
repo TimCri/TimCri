@@ -14,7 +14,7 @@ always learning.
 
 ## 🛠️ Skill Stack  
 
-**Languages:** Java . Python . JavaScript . SQL  
+**Languages:** Java · Python · JavaScript · SQL  
 
 **Cybersecurity Tools:** Kali Linux  
 
@@ -24,7 +24,7 @@ always learning.
 - Vulnerability Analysis  
 - Incident Response  
 
-**Other Tech:** Git . Linux (Learning)
+**Other Tech:** Git · Linux (Learning)
   
 ---
 
