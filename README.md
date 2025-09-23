@@ -29,7 +29,7 @@ Here are some projects I’ve worked on.
 
 ## 📊 Development Activity  
 
-![Timonique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimCrishow_icons=true&theme=tokyonight)  
+![Timonique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimCri&show_icons=true&theme=tokyonight)  
 
 ---
 
