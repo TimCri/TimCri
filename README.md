@@ -10,7 +10,6 @@ always learning.
 - 🔐 Aspiring **Cybersecurity Specialist** | ISC2 CC cerfication (in progress), 
 - 💻 Developer with a growing focus on **Java, Python, and Security tools**  
 
-
 ---
 
 ## 🛠️ Skill Stack  
@@ -24,14 +23,14 @@ always learning.
 
 ## 🔥 Projects  
 
-Here are some projects I’ve worked on—each with a visual and a short breakdown.  
+Here are some projects I’ve worked on.  
 1. 
 ---
 
 ## 📊 Development Activity  
 
+---
 
---
 ## 🎯 What I’m Up To
 - 🌱 Currently learning: Advanced **Java** + **Security Fundamentals**  
 - 💡 Exploring: Capture the Flag (CTF) challenges & secure system design & Hackathons 
