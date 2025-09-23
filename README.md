@@ -31,7 +31,7 @@ always learning.
 ## 🔥 Projects  
 
 Here are some projects I’ve worked on.  
-1. [Flappy Birds]()
+1. 
 ---
 
 ## 📊 Development Activity  
