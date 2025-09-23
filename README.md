@@ -14,7 +14,7 @@ always learning.
 
 ## 🛠️ Skill Stack  
 
-**Languages:** Java · Python · JavaScript · SQL  
+**Languages:** Java 
 
 **Cybersecurity Tools:** Kali Linux  
 
