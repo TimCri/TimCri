@@ -31,7 +31,7 @@ always learning.
 ## 🔥 Projects  
 
 Here are some projects I’ve worked on.  
-1. [Flag Collector](https://github.com/TimCri/Flag-Collector)
+1. [Flag Collector - In Progress](https://github.com/TimCri/Flag-Collector)
 ---
 
 ## 📊 Development Activity  
