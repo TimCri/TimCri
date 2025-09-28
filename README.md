@@ -14,7 +14,7 @@ always learning.
 
 ## 🛠️ Skill Stack  
 
-**Languages:** Java 
+**Languages:** Java, CSS, HTML, JavaScript 
 
 **Cybersecurity Tools:** Kali Linux  
 
@@ -31,7 +31,7 @@ always learning.
 ## 🔥 Projects  
 
 Here are some projects I’ve worked on.  
-1. 
+1. [Flag Collector](https://github.com/TimCri/Flag-Collector)
 ---
 
 ## 📊 Development Activity  
