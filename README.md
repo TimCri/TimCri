@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Timonique Crighton  
 
-🚀 Building my career in **Software Development & Cybersecurity**  
-always learning.  
+🚀 Building my career in **Cybersecurity** always learning.  
 
 ---
 
 ## 🌟 Quick Snapshot
-- 🎓 Pursuing a Bachelor's in **Computer Science** from Bowie State University graduate in 2027
-- 🔐 Aspiring **Cybersecurity Specialist** | ISC2 CC cerfication (in progress), 
-- 💻 Developer with a growing focus on **Java and Security tools**  
+- 🎓 Pursuing a Bachelor's in **Computer Science** from Bowie State University graduate in 2028
+- 🔐 Aspiring **Cybersecurity Specialist** | Security + (in progress)
 
 ---
 
@@ -18,12 +16,6 @@ always learning.
 
 **Cybersecurity Tools:** Kali Linux
 
-**Concepts**  
-- Secure Coding  
-- Threat Modeling  
-- Vulnerability Analysis  
-- Incident Response  
-  
 ---
 
 ## 🔥 Projects  
@@ -31,6 +23,11 @@ always learning.
 Here are some projects I’ve worked on.  
 1. [Flag Collector](https://github.com/TimCri/Flag-Collector)
 ---
+## 🚩 CFT Write Ups
+1. Pending
+
+## 🏆 CFT Competitions
+1. Pending
 
 ## 📊 Development Activity  
 
@@ -38,12 +35,6 @@ Here are some projects I’ve worked on.
 
 ---
 
-## 🎯 What I’m Up To
-- 🌱 Currently learning: Advanced **Java** + **Security Fundamentals**  
-- 💡 Exploring: Capture the Flag (CTF) challenges & secure system design & Hackathons 
-- 🤝 Open to collaborating on **security + software engineering projects**  
-
----
 
 ## 🌐 Connect with Me    
 - 💼 [LinkedIn: Timonique Crighton](https://www.linkedin.com/in/timonique-crighton-90475922a/)  
