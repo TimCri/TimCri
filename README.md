@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Timonique 👋
 
-<!--
-**TimCri/TimCri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Bowie State University**, focused on **Cybersecurity**.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Building an **OSINT Threat Actor Profiling Dashboard**
+- Studying for my **CompTIA Security+** certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+`Python` `Java` `SQLite` `PostgreSQL` `Azure` `Docker` `OpenAI`
+
+## 📫 How to Reach Me
+- 💼 LinkedIn: [https://www.linkedin.com/in/timonique-crighton/]
+
